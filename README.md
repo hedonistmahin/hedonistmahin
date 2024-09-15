@@ -1,10 +1,8 @@
 <img align="center" alt="Coding" width="4000"  src="https://github.com/hedonistmahin/hedonistmahin/blob/main/github-header-image.png" />
 <h1 align="center">Hi 👋, I'm Mahin</h1>
 <h3 align="center">I am a passionate CSE student from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src=img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/hedonistmahin/hedonistmahin/blob/main/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hedonistmahin&label=Profile%20views&color=0e75b6&style=flat" alt="hedonistmahin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hedonistmahin" alt="hedonistmahin" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/modabbirmahin" target="blank"><img src="https://img.shields.io/twitter/follow/modabbirmahin?logo=twitter&style=for-the-badge" alt="modabbirmahin" /></a> </p>
 
