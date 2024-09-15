@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **C++, ML**
+- 💬 Ask me about **C, C++, Java, ML**
 
 - 📫 How to reach me **mdmodabbirmahin@gmail.com**
 
