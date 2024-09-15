@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="4000"  src="https://github.com/hedonistmahin/hedonistmahin/blob/main/github-header-image.png" />
+<img align="center" alt="Coding" width="4000"  src="https://github.com/hedonistmahin/hedonistmahin/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
 <h1 align="center">Hi 👋, I'm Mahin</h1>
 <h3 align="center">I am a passionate CSE student from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/hedonistmahin/hedonistmahin/blob/main/de0dib6-0d584820-45d9-49c8-a54d-a33b98ac8372.gif">
